@@ -10,4 +10,7 @@ The solution dynamically loads multiple Excel files from a selected folder, extr
 - `docs/` — project documentation
 - `screenshots/` — visual examples of the workflow and outputs
 
+ ## Notes
+Sections `R2.1` and `R2.2` follow the same extraction and transformation pattern as other sections and are intentionally omitted from the repository to avoid duplication.
+
 > This project is part of a personal data analytics portfolio.
