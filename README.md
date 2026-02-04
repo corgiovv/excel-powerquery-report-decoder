@@ -2,7 +2,15 @@
 
 This repository contains an Excel Power Query (M language) solution for processing standardised Excel report templates submitted by multiple organisations.
 
-The solution dynamically loads multiple Excel files from a selected folder, extracts organisation metadata, and transforms semi-structured report sections into analysis-ready tables.
+The solution dynamically loads multiple Excel files from a folder-based source, extracts organisation metadata, and transforms semi-structured report sections into analysis-ready tables suitable for further analysis and reporting.
+
+## Example ETL workflow (R1.1)
+
+### Power Query transformation steps
+![Applied Steps](screenshots/applied_steps_r11.png)
+
+### Final output preview
+![Output Preview](screenshots/output_preview_r11.png)
 
 ## Project structure
 - `power_query/functions/` — reusable Power Query (M) functions
